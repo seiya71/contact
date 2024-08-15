@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+    border-bottom: solid 1px #E0DFDE;
+    width: 1512px;
+    height: 100px;
+}
+
+.header__inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1509.01px;
+    height: 100px;
+    left: 2.99px;
+}
+
+.header__logo {
+    color: #8b7969;
+    font-family: "Inika", serif;
+    font-size: 40px;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 52.12px;
+    text-align: center;
+}
