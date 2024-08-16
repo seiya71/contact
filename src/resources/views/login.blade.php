@@ -7,7 +7,7 @@
 @section('content')
 
 <div class="register__logo">
-    <a class="register__logo-text" href="/register">register</a>
+    <a class="register__logo-text" href="{{ url('/register') }}">register</a>
 </div>
 <div class="login__content">
     <div class="login__heading">

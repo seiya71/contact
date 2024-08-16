@@ -16,7 +16,7 @@
 </div>
 
 <div class="register__form">
-    <form action="/register" method="POST">
+    <form action="/registration" method="POST">
         @csrf
         <div class="register__form-group">
             <label class="form__label" for="name">お名前</label>
